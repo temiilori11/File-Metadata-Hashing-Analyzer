@@ -1,0 +1,42 @@
+--- Metadata for acq_log.txt ---
+File Size: 8636 bytes
+Creation Time: Fri Sep 19 14:15:59 2025
+Modification Time: Sun Sep 21 15:37:50 2025
+
+--------------------------------------------------
+
+--- Metadata for hashes.txt ---
+File Size: 476 bytes
+Creation Time: Fri Sep 19 15:13:40 2025
+Modification Time: Sun Sep 21 15:37:50 2025
+
+--------------------------------------------------
+
+--- Metadata for IMG_7405.JPEG ---
+File Size: 436696 bytes
+Creation Time: Sun Sep 21 14:24:50 2025
+Modification Time: Sun Sep 21 15:30:29 2025
+
+--------------------------------------------------
+
+--- Metadata for metadata.txt ---
+File Size: 0 bytes
+Creation Time: Sun Sep 21 14:57:26 2025
+Modification Time: Sun Sep 21 15:37:50 2025
+
+--------------------------------------------------
+
+--- Metadata for squidward.jfif ---
+File Size: 6403 bytes
+Creation Time: Fri Sep 19 14:15:59 2025
+Modification Time: Fri Sep 19 14:01:56 2025
+
+--------------------------------------------------
+
+--- Metadata for temi.txt ---
+File Size: 17 bytes
+Creation Time: Fri Sep 19 14:15:59 2025
+Modification Time: Fri Sep 19 15:31:20 2025
+
+--------------------------------------------------
+

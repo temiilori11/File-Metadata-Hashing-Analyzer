@@ -1,0 +1,173 @@
+
+--- Acquisition started: 2025-09-19 14:15:59.497705 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:15:59.499995
+Copied temi.txt at 2025-09-19 14:15:59.500889
+--- Acquisition complete: 2025-09-19 14:15:59.500982 ---
+
+--- Acquisition started: 2025-09-19 14:16:01.669852 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:16:01.671921
+Copied temi.txt at 2025-09-19 14:16:01.672539
+--- Acquisition complete: 2025-09-19 14:16:01.672565 ---
+
+--- Acquisition started: 2025-09-19 14:25:05.155877 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:25:05.157772
+Copied temi.txt at 2025-09-19 14:25:05.158390
+--- Acquisition complete: 2025-09-19 14:25:05.158410 ---
+
+--- Acquisition started: 2025-09-19 14:26:30.168092 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:26:30.170101
+Copied temi.txt at 2025-09-19 14:26:30.170664
+--- Acquisition complete: 2025-09-19 14:26:30.170682 ---
+
+--- Acquisition started: 2025-09-19 14:31:07.596137 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:31:07.598314
+Copied temi.txt at 2025-09-19 14:31:07.599176
+--- Acquisition complete: 2025-09-19 14:31:07.599199 ---
+
+--- Acquisition started: 2025-09-19 14:33:18.269932 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:33:18.271856
+Copied temi.txt at 2025-09-19 14:33:18.272462
+--- Acquisition complete: 2025-09-19 14:33:18.272481 ---
+
+--- Acquisition started: 2025-09-19 14:46:57.858810 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 14:46:57.862310
+Copied temi.txt at 2025-09-19 14:46:57.862930
+--- Acquisition complete: 2025-09-19 14:46:57.862955 ---
+
+--- Acquisition started: 2025-09-19 15:13:40.596240 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:13:40.598410
+Copied temi.txt at 2025-09-19 15:13:40.599037
+--- Acquisition complete: 2025-09-19 15:13:40.599056 ---
+
+--- Acquisition started: 2025-09-19 15:18:15.748479 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:18:15.750199
+Copied temi.txt at 2025-09-19 15:18:15.750996
+--- Acquisition complete: 2025-09-19 15:18:15.751023 ---
+
+--- Acquisition started: 2025-09-19 15:27:26.753083 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:27:26.755027
+Copied temi.txt at 2025-09-19 15:27:26.755639
+--- Acquisition complete: 2025-09-19 15:27:26.755680 ---
+
+--- Acquisition started: 2025-09-19 15:27:29.985093 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:27:29.987122
+Copied temi.txt at 2025-09-19 15:27:29.987857
+--- Acquisition complete: 2025-09-19 15:27:29.987880 ---
+
+--- Acquisition started: 2025-09-19 15:29:35.583342 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:29:35.585623
+Copied temi.txt at 2025-09-19 15:29:35.586327
+--- Acquisition complete: 2025-09-19 15:29:35.586355 ---
+
+--- Acquisition started: 2025-09-19 15:30:34.541315 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:30:34.543325
+Copied temi.txt at 2025-09-19 15:30:34.544054
+--- Acquisition complete: 2025-09-19 15:30:34.544084 ---
+
+--- Acquisition started: 2025-09-19 15:31:32.058281 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:31:32.060353
+Copied temi.txt at 2025-09-19 15:31:32.061032
+--- Acquisition complete: 2025-09-19 15:31:32.061055 ---
+
+--- Acquisition started: 2025-09-19 15:33:39.177338 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:33:39.179424
+Copied temi.txt at 2025-09-19 15:33:39.180012
+--- Acquisition complete: 2025-09-19 15:33:39.180034 ---
+
+--- Acquisition started: 2025-09-19 15:34:20.114288 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:34:20.116427
+Copied temi.txt at 2025-09-19 15:34:20.117252
+--- Acquisition complete: 2025-09-19 15:34:20.117277 ---
+
+--- Acquisition started: 2025-09-19 15:34:20.460399 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-19 15:34:20.462638
+Copied temi.txt at 2025-09-19 15:34:20.463417
+--- Acquisition complete: 2025-09-19 15:34:20.463440 ---
+
+--- Acquisition started: 2025-09-21 15:29:42.749923 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-21 15:29:42.752107
+Copied temi.txt at 2025-09-21 15:29:42.752996
+--- Acquisition complete: 2025-09-21 15:29:42.753020 ---
+
+--- Acquisition started: 2025-09-21 15:29:54.200049 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied squidward.jfif at 2025-09-21 15:29:54.202290
+Copied temi.txt at 2025-09-21 15:29:54.203150
+--- Acquisition complete: 2025-09-21 15:29:54.203183 ---
+
+--- Acquisition started: 2025-09-21 15:30:41.320453 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied IMG_7405.JPEG at 2025-09-21 15:30:41.323172
+Copied squidward.jfif at 2025-09-21 15:30:41.324593
+Copied temi.txt at 2025-09-21 15:30:41.325368
+--- Acquisition complete: 2025-09-21 15:30:41.325389 ---
+
+--- Acquisition started: 2025-09-21 15:32:35.963039 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied IMG_7405.JPEG at 2025-09-21 15:32:35.965461
+Copied squidward.jfif at 2025-09-21 15:32:35.966808
+Copied temi.txt at 2025-09-21 15:32:35.967528
+--- Acquisition complete: 2025-09-21 15:32:35.967559 ---
+
+--- Acquisition started: 2025-09-21 15:36:52.319649 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied IMG_7405.JPEG at 2025-09-21 15:36:52.322036
+Copied squidward.jfif at 2025-09-21 15:36:52.323571
+Copied temi.txt at 2025-09-21 15:36:52.324356
+--- Acquisition complete: 2025-09-21 15:36:52.324386 ---
+
+--- Acquisition started: 2025-09-21 15:36:59.737540 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied IMG_7405.JPEG at 2025-09-21 15:36:59.739976
+Copied squidward.jfif at 2025-09-21 15:36:59.741307
+Copied temi.txt at 2025-09-21 15:36:59.741869
+--- Acquisition complete: 2025-09-21 15:36:59.741888 ---
+
+--- Acquisition started: 2025-09-21 15:37:50.622465 ---
+Source: C:\Users\temii\Documents\ForensicProject\source_files
+Destination: C:\Users\temii\Documents\ForensicProject\working_files
+Copied IMG_7405.JPEG at 2025-09-21 15:37:50.624616
+Copied squidward.jfif at 2025-09-21 15:37:50.625883
+Copied temi.txt at 2025-09-21 15:37:50.626548
+--- Acquisition complete: 2025-09-21 15:37:50.626572 ---
